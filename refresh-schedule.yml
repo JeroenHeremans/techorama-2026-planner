@@ -1,0 +1,37 @@
+name: Refresh Schedule
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC (08:00 Brussels time)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # allow manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        run: python scrape.py
+
+      - name: Commit updated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tuesday.json data/wednesday.json index.html
+          git diff --cached --quiet && echo "No changes" || git commit -m "chore: refresh schedule data [skip ci]"
+          git push
