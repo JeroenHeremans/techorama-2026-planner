@@ -72,17 +72,42 @@ class ScheduleParser(HTMLParser):
         if len(chunks) < 3:
             return None
         room = chunks[0]
-        last = chunks[-1]
-        speaker = chunks[-2]
-        title = " ".join(chunks[1:-2]) if len(chunks) > 3 else chunks[1]
+
+        # Locate the category chunk by matching against known aliases.
+        # Layouts seen in the wild:
+        #   [room, title, speaker, "Category Level"]      (4 chunks, joined)
+        #   [room, title, speaker, "Category", "Level"]   (5 chunks, separate)
         cat = level = ""
-        for c, alias in CAT_ALIASES.items():
-            if last.startswith(c):
-                cat = alias
-                level = last[len(c):].strip()
+        cat_idx = -1
+        for i in range(len(chunks) - 1, 0, -1):
+            for c, alias in CAT_ALIASES.items():
+                if chunks[i] == c or chunks[i].startswith(c + " "):
+                    cat = alias
+                    rest = chunks[i][len(c):].strip()
+                    if rest:
+                        level = rest
+                    elif i + 1 < len(chunks):
+                        level = " ".join(chunks[i + 1:])
+                    cat_idx = i
+                    break
+            if cat_idx >= 0:
                 break
-        if not cat:
-            cat = last
+
+        if cat_idx == -1:
+            cat = chunks[-1]
+            cat_idx = len(chunks) - 1
+
+        middle = chunks[1:cat_idx]
+        if len(middle) >= 2:
+            speaker = middle[-1]
+            title = " ".join(middle[:-1])
+        elif len(middle) == 1:
+            title = middle[0]
+            speaker = ""
+        else:
+            title = ""
+            speaker = ""
+
         m = re.search(r"/sessions/(\d+)", href)
         sid = m.group(1) if m else re.sub(r"\W+", "_", title[:30])
         return {"id": sid, "room": room, "title": title, "speaker": speaker,
