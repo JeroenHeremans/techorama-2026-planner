@@ -427,6 +427,16 @@ let activeFilters = new Set(['AI & Agents','Architecture & Leadership','Cloud & 
 
 function saveSelected() { localStorage.setItem('techorama_selected', JSON.stringify(selected)); }
 
+function pruneSelected() {
+  const lookup = buildSessionLookup();
+  let removed = 0;
+  for (const id of Object.keys(selected)) {
+    if (!lookup[id]) { delete selected[id]; removed++; }
+  }
+  if (removed > 0) saveSelected();
+  return removed;
+}
+
 // ─── DATA LOADING ─────────────────────────────────────────────────────────────
 
 async function loadDay(day) {
@@ -462,6 +472,8 @@ async function loadData(manual = false) {
     SCHEDULE_DATA.wednesday = wed;
 
     const changes = detectChanges(prevTue, tue) + detectChanges(prevWed, wed);
+    const pruned = pruneSelected();
+    if (pruned > 0) updateCount();
     renderSchedule();
     if (showingMySchedule) renderMySchedule();
     
