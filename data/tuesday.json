@@ -1,0 +1,678 @@
+{
+  "day": "tuesday",
+  "blocks": [
+    {
+      "time": "07:30–08:30",
+      "special": "Hollywood Registration & breakfast"
+    },
+    {
+      "time": "08:30–09:30",
+      "sessions": [
+        {
+          "id": "1212569",
+          "room": "Room 5",
+          "title": "Beyond the AI Hype: What's Real, What's Next (Overflow 1) Richard Campbell",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1212569"
+        },
+        {
+          "id": "1130102",
+          "room": "Room 8",
+          "title": "Beyond the AI Hype: What's Real, What's Next Richard Campbell",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1130102"
+        },
+        {
+          "id": "1212570",
+          "room": "Room 9",
+          "title": "Beyond the AI Hype: What's Real, What's Next (Overflow 2) Richard Campbell",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1212570"
+        }
+      ]
+    },
+    {
+      "time": "09:30–09:45",
+      "special": "Hollywood Break"
+    },
+    {
+      "time": "09:45–10:45",
+      "sessions": [
+        {
+          "id": "1134626",
+          "room": "Room 1",
+          "title": "You’re Not Just Tired: The Psychology of Burnout Arthur Doler",
+          "speaker": "Architecture & Leadership",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1134626"
+        },
+        {
+          "id": "1139675",
+          "room": "Room 10",
+          "title": "Copilot Loves SharePoint Todd Klindt",
+          "speaker": "Workplace & Productivity",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1139675"
+        },
+        {
+          "id": "1134789",
+          "room": "Room 11",
+          "title": "Defending the Keep: Modern Identity Attacks Els Putzeys",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1134789"
+        },
+        {
+          "id": "1133346",
+          "room": "Room 13",
+          "title": "Agents Talking to Agents: Inside the A2A Protocol Massimo Crippa",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1133346"
+        },
+        {
+          "id": "1177972",
+          "room": "Room 4",
+          "title": "Microsoft Fabric for Dummies Koen Verbeeck",
+          "speaker": "Data",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1177972"
+        },
+        {
+          "id": "1120105",
+          "room": "Room 5",
+          "title": "Architecting Apollo: Systems Design Lessons from the Golden Age of Spaceflight Kyle Kotowick",
+          "speaker": "Architecture & Leadership",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1120105"
+        },
+        {
+          "id": "1173451",
+          "room": "Room 6",
+          "title": "How AI Agents Changed the Way We Build Azure Integrations Rob Hofman",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1173451"
+        },
+        {
+          "id": "1149847",
+          "room": "Room 7",
+          "title": "Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core Maarten Balliauw",
+          "speaker": "Dev",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1149847"
+        },
+        {
+          "id": "1139988",
+          "room": "Room 8",
+          "title": "Next-Gen AI Apps with .NET 10: Models, Data, Agents, and MCP Servers Jon Galloway",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1139988"
+        },
+        {
+          "id": "1117212",
+          "room": "Room 9",
+          "title": "The road to a faster ReSharper Kevin Gosse",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1117212"
+        }
+      ]
+    },
+    {
+      "time": "10:45–11:15",
+      "special": "Hollywood Break"
+    },
+    {
+      "time": "10:50–11:10",
+      "sessions": [
+        {
+          "id": "1203284",
+          "room": "Room 8",
+          "title": "Building Castles for Many Lords: Multitenancy in Practice Jerry Van Echelpoel",
+          "speaker": "Architecture & Leadership",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1203284"
+        }
+      ]
+    },
+    {
+      "time": "11:15–12:15",
+      "sessions": [
+        {
+          "id": "1127332",
+          "room": "Room 1",
+          "title": "Kindness in tech Kathleen Dollard",
+          "speaker": "Architecture & Leadership",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1127332"
+        },
+        {
+          "id": "1187902",
+          "room": "Room 10",
+          "title": "What the Scrolls Didn’t Say: A Real-World Microsoft Agent Framework Quest Frederiek Vandepitte, Wouter Bauchart",
+          "speaker": "AI & Agents",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1187902"
+        },
+        {
+          "id": "1125344",
+          "room": "Room 11",
+          "title": "From Localhost to Multi-Cloud: Building Production-Ready Apps with DocumentDB Mark Brown",
+          "speaker": "Data",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1125344"
+        },
+        {
+          "id": "1110638",
+          "room": "Room 13",
+          "title": "Shift Left on Non-Functionals: Continuous Validation with Azure Tom van den Berg",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1110638"
+        },
+        {
+          "id": "1172950",
+          "room": "Room 4",
+          "title": "Safe by Design — Guardrails and Evals for Production LLM Systems Hampton Paulk",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1172950"
+        },
+        {
+          "id": "1100746",
+          "room": "Room 5",
+          "title": "BYOAI - Build your own... Aspire Integration?! Maddy Montaquila",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1100746"
+        },
+        {
+          "id": "1130300",
+          "room": "Room 6",
+          "title": "Git Scenarios: How Do I Fix That? Rob Richardson",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1130300"
+        },
+        {
+          "id": "1132799",
+          "room": "Room 7",
+          "title": "Uniting divided MCP appdoms with OAuth and Cross App Access Alisa Duncan",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1132799"
+        },
+        {
+          "id": "1110919",
+          "room": "Room 8",
+          "title": "Productivity Tips and Tricks in Visual Studio Leslie Richardson",
+          "speaker": "Dev",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1110919"
+        },
+        {
+          "id": "1132694",
+          "room": "Room 9",
+          "title": "Lead your team like a knight! Hannes Lowette",
+          "speaker": "Architecture & Leadership",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1132694"
+        }
+      ]
+    },
+    {
+      "time": "12:15–13:15",
+      "special": "Hollywood Break"
+    },
+    {
+      "time": "12:30–12:50",
+      "sessions": [
+        {
+          "id": "1187219",
+          "room": "Room 8",
+          "title": "The node_modules Iceberg: Mysteries Below the Waterline Chris DeMars",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1187219"
+        }
+      ]
+    },
+    {
+      "time": "13:15–14:15",
+      "sessions": [
+        {
+          "id": "1133525",
+          "room": "Room 1",
+          "title": "Hard lessons learned from a decade of architecting software on the cloud Marilag Dimatulac Svennevig",
+          "speaker": "Architecture & Leadership",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1133525"
+        },
+        {
+          "id": "1131279",
+          "room": "Room 10",
+          "title": "Airport Quest: Relationship-Based Access Control with OpenFGA Sander Molenkamp",
+          "speaker": "Dev",
+          "cat": "Advanced",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1131279"
+        },
+        {
+          "id": "1190012",
+          "room": "Room 11",
+          "title": "Secure Hosting of Legacy Applications on Azure Bart Demeulenaere",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1190012"
+        },
+        {
+          "id": "1127826",
+          "room": "Room 13",
+          "title": "Beyond pair programming: Autonomous development with SpecKit and Ralph Hidde de Smet",
+          "speaker": "AI & Agents",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1127826"
+        },
+        {
+          "id": "1090037",
+          "room": "Room 4",
+          "title": "Designing REST APIs for the age of AI agents Boyan Mihaylov",
+          "speaker": "Dev",
+          "cat": "Advanced",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1090037"
+        },
+        {
+          "id": "1134742",
+          "room": "Room 5",
+          "title": "OpenCode: Control your coding agent and your data Geert van der Cruijsen",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1134742"
+        },
+        {
+          "id": "1135488",
+          "room": "Room 6",
+          "title": "Building the Ultimate Safety Net with Integration Tests Jimmy Bogard",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1135488"
+        },
+        {
+          "id": "1187310",
+          "room": "Room 7",
+          "title": "Agentic CI/CD: Azure DevOps vs GitHub Agentic Workflows Thibaut De Cremer",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1187310"
+        },
+        {
+          "id": "1108850",
+          "room": "Room 8",
+          "title": "Inside GPT – Large Language Models Demystified Alan Smith",
+          "speaker": "AI & Agents",
+          "cat": "Advanced",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1108850"
+        },
+        {
+          "id": "1132188",
+          "room": "Room 9",
+          "title": "Clean Architecture for Blazor in the Real World Johan Smarius",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1132188"
+        }
+      ]
+    },
+    {
+      "time": "14:15–14:30",
+      "special": "Hollywood Break"
+    },
+    {
+      "time": "14:30–15:30",
+      "sessions": [
+        {
+          "id": "1144575",
+          "room": "Room 1",
+          "title": "Building reliable applications / What we can learn from the Three Little Pigs Sergey Bykov",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1144575"
+        },
+        {
+          "id": "1089555",
+          "room": "Room 10",
+          "title": "ASP.NET Core, from DEV to PRD Wesley Cabus",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1089555"
+        },
+        {
+          "id": "1096512",
+          "room": "Room 11",
+          "title": "Azure Spot instances as your secret weapon Jiří Činčura",
+          "speaker": "Cloud & DevOps",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1096512"
+        },
+        {
+          "id": "1114587",
+          "room": "Room 13",
+          "title": "We Rolled Out GitHub Copilot… How Do We Prove It Helps? Liuba Gonta, Yuliya Khadasevich",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1114587"
+        },
+        {
+          "id": "1111340",
+          "room": "Room 4",
+          "title": "From Automation to Intelligence: Using Power Automate GPT Prompts for Smarter Document Processing Christina Wheeler",
+          "speaker": "Workplace & Productivity",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1111340"
+        },
+        {
+          "id": "1134429",
+          "room": "Room 5",
+          "title": "Spec-driven development live Sakari Nahi",
+          "speaker": "AI & Agents",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1134429"
+        },
+        {
+          "id": "1127971",
+          "room": "Room 6",
+          "title": "String and memory: a long love story in .NET Christophe Nasarre",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1127971"
+        },
+        {
+          "id": "1089960",
+          "room": "Room 7",
+          "title": "Make Your SQL Server Queries Faster Than Your Neighbour’s Pinal Dave",
+          "speaker": "Data",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1089960"
+        },
+        {
+          "id": "1094506",
+          "room": "Room 8",
+          "title": "Build an MCP Server in C# Rockford Lhotka",
+          "speaker": "AI & Agents",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1094506"
+        },
+        {
+          "id": "1116183",
+          "room": "Room 9",
+          "title": "Beyond Pub/Sub - Advanced Messaging Patterns Poornima Nayar",
+          "speaker": "Architecture & Leadership",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1116183"
+        }
+      ]
+    },
+    {
+      "time": "15:30–16:00",
+      "special": "Hollywood Break"
+    },
+    {
+      "time": "15:35–15:55",
+      "sessions": [
+        {
+          "id": "1176988",
+          "room": "Room 8",
+          "title": "Reusing DevOps Steps, Jobs, Stages, and Pipelines across your company projects Jorren Schepers, Wannes Maes",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1176988"
+        }
+      ]
+    },
+    {
+      "time": "16:00–17:00",
+      "sessions": [
+        {
+          "id": "1154699",
+          "room": "Room 1",
+          "title": "Agent-Ready Frontends: A Development Guide Vuong Ha",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1154699"
+        },
+        {
+          "id": "1130751",
+          "room": "Room 10",
+          "title": "Securing Modern Workloads with Entra Agent ID Sergey Chubarov",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1130751"
+        },
+        {
+          "id": "1150599",
+          "room": "Room 11",
+          "title": "From Courtly hype to battlefield impact: Making AI work in the real world Gila Marelus",
+          "speaker": "Architecture & Leadership",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1150599"
+        },
+        {
+          "id": "1111831",
+          "room": "Room 13",
+          "title": "Ship faster. Stress Less. Agentic DevOps with Github Copilot and SRE Agent Nir Mashkowski",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1111831"
+        },
+        {
+          "id": "1134464",
+          "room": "Room 4",
+          "title": "Professional AI-Assisted Development with Cursor: From Vibecoding to Production-Ready Code Xavier Decuyper",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1134464"
+        },
+        {
+          "id": "1132321",
+          "room": "Room 5",
+          "title": "MITRE ATT&CK for Developers Chris Ayers",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1132321"
+        },
+        {
+          "id": "1133214",
+          "room": "Room 6",
+          "title": "Building well-documented versioned HTTP APIs in ASP.NET Core Dennis Doomen",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1133214"
+        },
+        {
+          "id": "1110545",
+          "room": "Room 7",
+          "title": "Testing smarter: Bringing AI into your E2E testing workflows Elio Struyf",
+          "speaker": "Dev",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1110545"
+        },
+        {
+          "id": "1191767",
+          "room": "Room 8",
+          "title": "From Single Agents to Systems: Designing Multi-Agent Architecture Sakari Nahi",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1191767"
+        },
+        {
+          "id": "1135051",
+          "room": "Room 9",
+          "title": "Azure Virtual Networks for developers Rik Hepworth",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1135051"
+        }
+      ]
+    },
+    {
+      "time": "17:00–17:15",
+      "special": "Hollywood Break"
+    },
+    {
+      "time": "17:15–18:15",
+      "sessions": [
+        {
+          "id": "1089504",
+          "room": "Room 1",
+          "title": "How Microfrontends Let Your Teams Ship Fast Without Breaking Things Dante De Ruwe",
+          "speaker": "Architecture & Leadership",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1089504"
+        },
+        {
+          "id": "1134624",
+          "room": "Room 10",
+          "title": "Build an agent into any app with the GitHub Copilot SDK Bart Wullems",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1134624"
+        },
+        {
+          "id": "1113541",
+          "room": "Room 11",
+          "title": "Hello, Agent World! A Lap Around AI Agents on AWS Alexander Dragunov",
+          "speaker": "AI & Agents",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1113541"
+        },
+        {
+          "id": "1124306",
+          "room": "Room 13",
+          "title": "The RAGged Edge: Keep your data and AI close Christian Peeters",
+          "speaker": "AI & Agents",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1124306"
+        },
+        {
+          "id": "1121210",
+          "room": "Room 4",
+          "title": "Stop flying blind. Monitor your applications with Azure Application Insights. Sam Vanhoutte",
+          "speaker": "Cloud & DevOps",
+          "cat": "Intermediate",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1121210"
+        },
+        {
+          "id": "1108843",
+          "room": "Room 5",
+          "title": "AI Agents In-Depth – Function Calling, MCP and Tool Use Under the Hood Alan Smith",
+          "speaker": "AI & Agents",
+          "cat": "Advanced",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1108843"
+        },
+        {
+          "id": "1117538",
+          "room": "Room 6",
+          "title": "Turbocharge your applications with Microsoft AI Foundry Vincent Biret",
+          "speaker": "AI & Agents",
+          "cat": "Introductory and overview",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1117538"
+        },
+        {
+          "id": "1175082",
+          "room": "Room 7",
+          "title": "Get your outbox out of the dark ages! Szymon Pobiega",
+          "speaker": "Architecture & Leadership",
+          "cat": "Advanced",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1175082"
+        },
+        {
+          "id": "1135706",
+          "room": "Room 8",
+          "title": "C# 14 and Beyond Bart De Smet",
+          "speaker": "Dev",
+          "cat": "Advanced",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1135706"
+        },
+        {
+          "id": "1136175",
+          "room": "Room 9",
+          "title": "Do It With Style: Rethinking CSS Dylan Beattie",
+          "speaker": "Dev",
+          "cat": "Expert",
+          "level": "",
+          "url": "https://techorama.be/schedule/sessions/1136175"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-05-05T08:53:02.491801+00:00"
+}
