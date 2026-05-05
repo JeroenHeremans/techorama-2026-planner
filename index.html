@@ -462,9 +462,10 @@ async function loadData(manual = false) {
     SCHEDULE_DATA.wednesday = wed;
 
     const changes = detectChanges(prevTue, tue) + detectChanges(prevWed, wed);
+    renderSchedule();
+    if (showingMySchedule) renderMySchedule();
+    
     if (changes > 0) {
-      renderSchedule();
-      if (showingMySchedule) renderMySchedule();
       showToast(`Schedule updated — ${changes} session${changes > 1 ? 's' : ''} changed`, 'success');
     } else if (manual) {
       showToast('Schedule is up to date', 'success');
