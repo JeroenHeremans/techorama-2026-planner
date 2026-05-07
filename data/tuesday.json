@@ -167,13 +167,13 @@
           "url": "https://techorama.be/schedule/sessions/1127332"
         },
         {
-          "id": "1187902",
+          "id": "1134485",
           "room": "Room 10",
-          "title": "What the Scrolls Didn’t Say: A Real-World Microsoft Agent Framework Quest",
-          "speaker": "Frederiek Vandepitte, Wouter Bauchart",
-          "cat": "AI & Agents",
+          "title": "Optimistic Security",
+          "speaker": "Niall Merrigan",
+          "cat": "Architecture & Leadership",
           "level": "Introductory and overview",
-          "url": "https://techorama.be/schedule/sessions/1187902"
+          "url": "https://techorama.be/schedule/sessions/1134485"
         },
         {
           "id": "1125344",
@@ -194,13 +194,13 @@
           "url": "https://techorama.be/schedule/sessions/1110638"
         },
         {
-          "id": "1172950",
+          "id": "1172951",
           "room": "Room 4",
-          "title": "Safe by Design — Guardrails and Evals for Production LLM Systems",
+          "title": "Confident and Wrong — Detecting LLM Hallucinations in Production",
           "speaker": "Hampton Paulk",
           "cat": "AI & Agents",
           "level": "Intermediate",
-          "url": "https://techorama.be/schedule/sessions/1172950"
+          "url": "https://techorama.be/schedule/sessions/1172951"
         },
         {
           "id": "1100746",
@@ -318,7 +318,7 @@
         {
           "id": "1134742",
           "room": "Room 5",
-          "title": "OpenCode: Control your coding agent and your data",
+          "title": "Taking Control of Coding Agents with OpenCode and OpenSpec",
           "speaker": "Geert van der Cruijsen",
           "cat": "AI & Agents",
           "level": "Intermediate",
@@ -674,5 +674,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-06T16:20:25.562850+00:00"
+  "scraped_at": "2026-05-07T08:08:33.326489+00:00"
 }

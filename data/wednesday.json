@@ -18,13 +18,13 @@
           "url": "https://techorama.be/schedule/sessions/1110635"
         },
         {
-          "id": "1139671",
+          "id": "1187902",
           "room": "Room 10",
-          "title": "Getting the most out of the SharePoint Knowledge Agent",
-          "speaker": "Todd Klindt",
-          "cat": "Workplace & Productivity",
+          "title": "What the Scrolls Didn’t Say: A Real-World Microsoft Agent Framework Quest",
+          "speaker": "Frederiek Vandepitte, Wouter Bauchart",
+          "cat": "AI & Agents",
           "level": "Introductory and overview",
-          "url": "https://techorama.be/schedule/sessions/1139671"
+          "url": "https://techorama.be/schedule/sessions/1187902"
         },
         {
           "id": "1152740",
@@ -63,13 +63,13 @@
           "url": "https://techorama.be/schedule/sessions/1089963"
         },
         {
-          "id": "1134485",
+          "id": "1139671",
           "room": "Room 6",
-          "title": "Optimistic Security",
-          "speaker": "Niall Merrigan",
-          "cat": "Architecture & Leadership",
+          "title": "Getting the most out of the SharePoint Knowledge Agent",
+          "speaker": "Todd Klindt",
+          "cat": "Workplace & Productivity",
           "level": "Introductory and overview",
-          "url": "https://techorama.be/schedule/sessions/1134485"
+          "url": "https://techorama.be/schedule/sessions/1139671"
         },
         {
           "id": "1094509",
@@ -343,13 +343,13 @@
           "url": "https://techorama.be/schedule/sessions/1154875"
         },
         {
-          "id": "1172951",
+          "id": "1172950",
           "room": "Room 10",
-          "title": "Confident and Wrong — Detecting LLM Hallucinations in Production",
+          "title": "Safe by Design — Guardrails and Evals for Production LLM Systems",
           "speaker": "Hampton Paulk",
           "cat": "AI & Agents",
           "level": "Intermediate",
-          "url": "https://techorama.be/schedule/sessions/1172951"
+          "url": "https://techorama.be/schedule/sessions/1172950"
         },
         {
           "id": "1134640",
@@ -651,5 +651,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-06T16:20:25.562850+00:00"
+  "scraped_at": "2026-05-07T08:08:33.326489+00:00"
 }
