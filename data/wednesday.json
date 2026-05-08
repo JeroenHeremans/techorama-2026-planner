@@ -18,13 +18,13 @@
           "url": "https://techorama.be/schedule/sessions/1110635"
         },
         {
-          "id": "1187902",
+          "id": "1134008",
           "room": "Room 10",
-          "title": "What the Scrolls Didn’t Say: A Real-World Microsoft Agent Framework Quest",
-          "speaker": "Frederiek Vandepitte, Wouter Bauchart",
+          "title": "Putting the AI in .NET MAUI",
+          "speaker": "Shaun Lawrence",
           "cat": "AI & Agents",
-          "level": "Introductory and overview",
-          "url": "https://techorama.be/schedule/sessions/1187902"
+          "level": "Intermediate",
+          "url": "https://techorama.be/schedule/sessions/1134008"
         },
         {
           "id": "1152740",
@@ -230,13 +230,13 @@
           "url": "https://techorama.be/schedule/sessions/1112095"
         },
         {
-          "id": "1134008",
+          "id": "1187902",
           "room": "Room 10",
-          "title": "Putting the AI in .NET MAUI",
-          "speaker": "Shaun Lawrence",
+          "title": "What the Scrolls Didn’t Say: A Real-World Microsoft Agent Framework Quest",
+          "speaker": "Frederiek Vandepitte, Wouter Bauchart",
           "cat": "AI & Agents",
-          "level": "Intermediate",
-          "url": "https://techorama.be/schedule/sessions/1134008"
+          "level": "Introductory and overview",
+          "url": "https://techorama.be/schedule/sessions/1187902"
         },
         {
           "id": "1132724",
@@ -651,5 +651,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-07T08:08:33.326489+00:00"
+  "scraped_at": "2026-05-08T07:11:50.348968+00:00"
 }
