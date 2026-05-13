@@ -472,7 +472,7 @@
           "id": "1197875",
           "room": "Room 4",
           "title": "The end of coding as we know it: using and building agents that actually work",
-          "speaker": "Matthias Heylen",
+          "speaker": "Matthias Heylen, Steven Van De Poel",
           "cat": "AI & Agents",
           "level": "Intermediate",
           "url": "https://techorama.be/schedule/sessions/1197875"
@@ -651,5 +651,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-12T08:16:09.455583+00:00"
+  "scraped_at": "2026-05-13T08:28:15.310212+00:00"
 }
